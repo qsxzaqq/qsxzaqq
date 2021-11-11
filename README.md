@@ -6,3 +6,5 @@
 ### Minecraft项目:
 - 游戏世界服务器框架: https://github.com/qsxzaqq/GameCraftFramework
 - 不知名(破)签到: https://github.com/qsxzaqq/qiandao
+
+![m](metrics.svg)
