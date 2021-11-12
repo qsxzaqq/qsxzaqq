@@ -10,6 +10,7 @@ jobs:
   github-metrics-personal:
     runs-on: ubuntu-latest
     steps:
+
       - name: Personal metrics
         uses: lowlighter/metrics@latest
         with:
@@ -30,4 +31,5 @@ jobs:
           plugin_achievements_ignored: octonaut  # Hide octonaut achievement
           plugin_achievements_limit: 0           # Display all unlocked achievement matching threshold and secrets params              # Shuffle for varied output
           config_timezone: Asia/Shanghai
+
 
